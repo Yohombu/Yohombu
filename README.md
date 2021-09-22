@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yohombu Abeysinghe
+### Hello 👋 I'm Yohombu Abeysinghe
 
 <!--
 **Yohombu/Yohombu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
