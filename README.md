@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yohombu" alt="yohombu" /></a> </p>
 - 📫 Reach me via **yohombuda@gmail.com**
-- 💻 I'm currently learning **Flutter & Angular**
+- 💻 I'm currently learning **Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
